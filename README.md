@@ -1,4 +1,10 @@
-## Oi!
+## Felipe aqui, bem vindo ao meu GitHub! pronto para contribuir e ajudar...
+
+<div>
+  <a href="https://github.com/frsst">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frsst&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frsst&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Frss-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
