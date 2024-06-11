@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/frsst">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frsst&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frsst&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=frsst&show_icons=true&theme=dracula"/>
+  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frsst&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
